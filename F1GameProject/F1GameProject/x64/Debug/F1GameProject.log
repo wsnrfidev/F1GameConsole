@@ -1,0 +1,21 @@
+﻿  F1GameProject.cpp
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\olcConsoleGameEngine.h(645,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'F1GameProject.cpp')
+  
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\olcConsoleGameEngine.h(985,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'F1GameProject.cpp')
+  
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\olcConsoleGameEngine.h(1082,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+  (compiling source file 'F1GameProject.cpp')
+  
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\F1GameProject.cpp(156,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\F1GameProject.cpp(157,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\F1GameProject.cpp(158,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\F1GameProject.cpp(159,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\F1GameProject.cpp(186,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\F1GameProject.cpp(231,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\F1GameProject.cpp(232,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\F1GameProject\F1GameProject.cpp(233,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  F1GameProject.vcxproj -> C:\Users\Administrator\source\repos\GAME PROJECT\F1GameProject\x64\Debug\F1GameProject.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
